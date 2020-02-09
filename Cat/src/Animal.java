@@ -1,4 +1,4 @@
-public class cat {
+public class Animal {
     String name;
     float age;
     int healthStatus;
@@ -6,6 +6,6 @@ public class cat {
     int levelOfSpirit;
     String favoriteFood;
     String favoriteActivity;
-
+    String type;
 
 }
